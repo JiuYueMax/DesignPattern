@@ -5,11 +5,11 @@ public abstract class AbsAdapter implements Interface4 {
 
 	//д╛хой╣ож
 	public void m1() {
-
+		System.out.println("aaa");
 	}
 
 	public void m2() {
-
+		System.out.println("m2");
 	}
 
 	public void m3() {
