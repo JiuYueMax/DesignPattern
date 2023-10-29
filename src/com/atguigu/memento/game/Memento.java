@@ -1,5 +1,8 @@
 package com.atguigu.memento.game;
 
+/**
+ * ±¸ÍüÂ¼Àà
+ */
 public class Memento {
 
 	//¹¥»÷Á¦

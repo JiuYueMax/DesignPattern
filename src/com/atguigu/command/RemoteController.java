@@ -1,5 +1,6 @@
 package com.atguigu.command;
 
+//需要一个遥控器
 public class RemoteController {
 
 	// 开 按钮的命令数组

@@ -1,5 +1,6 @@
 package com.atguigu.command;
 
+//创建电灯相关的开关命令
 public class LightOffCommand implements Command {
 
 	// 聚合LightReceiver

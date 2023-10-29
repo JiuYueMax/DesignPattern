@@ -1,5 +1,8 @@
 package com.atguigu.memento.theory;
 
+/**
+ * ±¸ÍüÂ¼Àà
+ */
 public class Memento {
 	private String state;
 
